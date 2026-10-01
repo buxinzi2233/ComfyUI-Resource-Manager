@@ -1,0 +1,10 @@
+.venv/
+.cache/
+target/
+dist/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.so
+*.pyd
+config.json

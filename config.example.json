@@ -1,0 +1,5 @@
+{
+  "unload_gpu_seconds": null,
+  "release_models_seconds": null,
+  "unload_on_model_switch": true
+}

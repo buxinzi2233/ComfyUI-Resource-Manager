@@ -1,0 +1,12 @@
+{
+  "upstream": "https://github.com/Comfy-Org/ComfyUI",
+  "base_commit": "6b747c0428c343e1417219641db93a4fb7cb69ae",
+  "base_version": "0.38.0",
+  "paths": [
+    "execution.py",
+    "main.py",
+    "comfy/system_memory.py",
+    "comfy_execution/caching.py",
+    "tests-unit/comfy_test/system_memory_test.py"
+  ]
+}
